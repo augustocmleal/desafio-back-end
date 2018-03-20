@@ -1,4 +1,4 @@
-package com.globo.crawler.entity.feed.autoesporte;
+package com.globo.crawler.to.feed.autoesporte;
 
 import java.util.List;
 

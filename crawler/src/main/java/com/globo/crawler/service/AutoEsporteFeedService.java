@@ -19,11 +19,11 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 import org.springframework.stereotype.Service;
 
-import com.globo.crawler.entity.feed.autoesporte.Item;
-import com.globo.crawler.entity.feed.autoesporte.Rss;
 import com.globo.crawler.service.to.AutoEsporteFeedServiceResponse;
 import com.globo.crawler.service.to.ResponseDescription;
 import com.globo.crawler.service.to.ResponseItem;
+import com.globo.crawler.to.feed.autoesporte.Item;
+import com.globo.crawler.to.feed.autoesporte.Rss;
 @Service
 public class AutoEsporteFeedService {
 	

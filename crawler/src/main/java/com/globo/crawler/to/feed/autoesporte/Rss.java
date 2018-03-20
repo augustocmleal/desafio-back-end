@@ -1,4 +1,4 @@
-package com.globo.crawler.entity.feed.autoesporte;
+package com.globo.crawler.to.feed.autoesporte;
 
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlRootElement;
